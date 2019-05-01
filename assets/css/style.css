@@ -1,0 +1,64 @@
+.cajaAnal{
+    
+}
+
+.cajaAnal2{
+    
+}
+
+
+.cajaAnal13{
+    background-color:#ff9933;
+    width: 250px;
+    height: 320px;
+    
+}
+
+.cajaAnal14{
+    background-color: #669933;
+    width: 250px;
+    height: 320px;
+    
+}
+
+.cajaAnal15{
+    background-color: #3399cc;
+    width: 250px;
+    height: 320px;
+    
+}
+
+/* .greenAnal{
+    
+    background-color: #336699;
+    border-radius: 15px;
+    padding: 1%;
+}
+
+.redAnal{
+    background-color: #393c3f;
+    border-radius: 15px;
+    padding: 1%;
+
+} */
+
+.superCracks{
+    background-color: #393c3f;
+    border-radius: 15px;
+    padding: 1%;
+
+}
+
+.superCrackSong{
+    background-color: #cccccc;
+    padding: 2%;
+}
+
+.form-group{
+    color: #cccccc;
+}
+
+/* .superSizeMe{
+    width: 520px;
+    
+} */
