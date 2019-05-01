@@ -50,8 +50,8 @@
 }
 
 .superCrackSong{
-    background-color: #cccccc;
-    padding: 2%;
+    background-color: #fffdfd;
+    padding: 1%;
 }
 
 .form-group{
@@ -62,3 +62,31 @@
     width: 520px;
     
 } */
+
+/* #SuperFondoTotal{ */
+    
+    /* padding: auto 100px; */
+    /* margin: auto 10%;
+} */
+
+#fondoSuperior{
+    background-color: #fffdfd;
+}
+
+h3{
+    color: #999966;
+}
+
+body{
+    background-color: #959799;
+    margin: auto 10%;
+}
+
+.bg-light {
+    background-color: #003366 !important;
+}
+
+/* a>.nav-link{
+    color: #cccccc;
+} */
+
